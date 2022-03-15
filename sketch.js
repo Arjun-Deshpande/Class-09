@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-  background(30);
+  background(50);
   drawSprites();
   if (keyIsDown(RIGHT_ARROW)) {
     box.position.x += 5;
