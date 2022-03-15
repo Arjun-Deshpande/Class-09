@@ -14,6 +14,9 @@ function draw() {
   if (keyIsDown(LEFT_ARROW)) {
     box.position.x -= 5;
   }
+  if (keyIsDown(UP_ARROW)) {
+    up();
+  }
 }
 
 
