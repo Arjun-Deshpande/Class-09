@@ -1,6 +1,6 @@
 var box;
 function setup() {
-  createCanvas(400,400);
+  createCanvas(4000000000000,5000000);
   console.log("Hello World!")
   box = createSprite(100, 200, 30, 30)
 }
